@@ -9,3 +9,13 @@ The student sees:
 - .universal/controls is also visible
 
 The control scripts are quite simple in nature. In most cases they just use a project management tool like maven or rake, and are kept quite small. A small parser is required for each new project type, however, to be able to obtain points.
+
+Scripts
+=======
+
+# get-points
+This script should produce the following:
+testname1 p1 p2 p3 p4 ...
+testname2 p1 p5 p2 p8 ...
+...
+Here p stands for pointname. Any number of pointsnames can follow a test's name.
