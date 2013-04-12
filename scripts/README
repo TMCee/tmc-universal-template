@@ -1,1 +1,3 @@
 This folder will contain the script to create a new folder out of this template
+
+This folder might actually be purged at some point, because now there doesn't seem to be a need for a script to generate this project templates actually. We could, however, provide a placeholder script that can just be edited so that the final "project type" can be copied easier.
